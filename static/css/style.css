@@ -1,0 +1,28 @@
+body{
+    background-color: lightblue;
+}
+form{
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1,p{
+    margin-bottom: 25px;
+    text-align: center;
+}
+input {
+    margin-bottom: 25px;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+}
+
+button {
+  background-color: #555555;
+  border: black;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
